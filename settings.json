@@ -1,0 +1,8 @@
+{
+    "api_key": "b34565ba88225292c3ba490cb56764c8",
+    "api_url_pref": "https://financialmodelingprep.com/api/v3/quote/",
+    "server_mail": "test@gmail.com",
+    "server_mail_passw": "testtest",
+    "client_mail": "testtest@gmail.com",
+    "sendmail": 0
+}
